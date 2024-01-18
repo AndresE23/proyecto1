@@ -1,7 +1,7 @@
-p =  12
-x = 6
+Ñ = 40
+y=23
 
 
-Z= p+1
+Z= y+1
 #Holaaaaaaaaa XD
 #JAJAJJAKADJUSDJUD
