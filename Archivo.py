@@ -1,7 +1,6 @@
-Ñ = 40
-y=23
+t = 120
+l = 60
 
-
-Z= y+1
+Z= l+1
 #Holaaaaaaaaa XD
 #JAJAJJAKADJUSDJUD
