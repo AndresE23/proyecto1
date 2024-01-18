@@ -1,7 +1,6 @@
-p =  12
-x = 6
-px = p+x
+t = 120
+l = 60
 
-Z= p+1
+Z= l+1
 #Holaaaaaaaaa XD
 #JAJAJJAKADJUSDJUD
